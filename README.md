@@ -2,6 +2,9 @@
 
 ### This is my first Vue app
 
+### https://surik00.github.io/vue-todo-list/
+
+
 ## Project setup
 ```
 npm install
