@@ -1,4 +1,6 @@
-# vue_crash_todolist
+# Vue Todo List
+
+### This is my first Vue app
 
 ## Project setup
 ```
